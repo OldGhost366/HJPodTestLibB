@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HJPodTestLibB_Example' do
+  pod 'HJPodTestLibB', :path => '../'
+
+  target 'HJPodTestLibB_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
