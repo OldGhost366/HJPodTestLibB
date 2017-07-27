@@ -1,0 +1,6 @@
+framework module HJPodTestLibB {
+  umbrella header "HJPodTestLibB-umbrella.h"
+
+  export *
+  module * { export * }
+}

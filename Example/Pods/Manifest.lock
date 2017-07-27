@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HJPodTestLibB (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HJPodTestLibB (from `../`)
+
+EXTERNAL SOURCES:
+  HJPodTestLibB:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HJPodTestLibB: 07449d046b718bcfaebb62fddd23d17e95e3579f
+
+PODFILE CHECKSUM: cf55beaaef552abdf9406851936070137ce23326
+
+COCOAPODS: 1.2.1

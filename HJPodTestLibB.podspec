@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HJPodTestLibB'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of HJPodTestLibB.'
+  s.summary          = 'HJPodTestLibB.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/OldGhost366/HJPodTestLibB'
@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'HJPodTestLibB/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'HJPodTestLibB' => ['HJPodTestLibB/Assets/*.png']
   # }

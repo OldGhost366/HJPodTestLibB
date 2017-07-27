@@ -1,0 +1,22 @@
+{
+  "name": "HJPodTestLibB",
+  "version": "0.1.0",
+  "summary": "A short description of HJPodTestLibB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/OldGhost366/HJPodTestLibB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "OldGhost366": "huj@getui.com"
+  },
+  "source": {
+    "git": "https://github.com/OldGhost366/HJPodTestLibB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HJPodTestLibB/Classes/**/*"
+}
